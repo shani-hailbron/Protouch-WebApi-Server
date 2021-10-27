@@ -1,0 +1,12 @@
+D:\לימודים\protouch\DAL\BL\bin\Debug\netcoreapp2.1\BL.deps.json
+D:\לימודים\protouch\DAL\BL\bin\Debug\netcoreapp2.1\BL.dll
+D:\לימודים\protouch\DAL\BL\bin\Debug\netcoreapp2.1\BL.pdb
+D:\לימודים\protouch\DAL\BL\obj\Debug\netcoreapp2.1\BL.csprojAssemblyReference.cache
+D:\לימודים\protouch\DAL\BL\obj\Debug\netcoreapp2.1\BL.csproj.CoreCompileInputs.cache
+D:\לימודים\protouch\DAL\BL\obj\Debug\netcoreapp2.1\BL.AssemblyInfoInputs.cache
+D:\לימודים\protouch\DAL\BL\obj\Debug\netcoreapp2.1\BL.AssemblyInfo.cs
+D:\לימודים\protouch\DAL\BL\obj\Debug\netcoreapp2.1\BL.dll
+D:\לימודים\protouch\DAL\BL\obj\Debug\netcoreapp2.1\BL.pdb
+D:\לימודים\protouch\DAL\BL\bin\Debug\netcoreapp2.1\DAL.dll
+D:\לימודים\protouch\DAL\BL\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\לימודים\protouch\DAL\BL\obj\Debug\netcoreapp2.1\BL.csproj.CopyComplete
